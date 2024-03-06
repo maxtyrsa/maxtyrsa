@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Max
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sololearn Python'https://api2.sololearn.com/v2/certificates/CC-HDFVXMJG/image/png'
