@@ -1,8 +1,9 @@
 ### Hi there I'm Max. I am a Data Analyst
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5jaXE2cHIxNm83MWY0dnZxb3M0MmNjbWlqeTd1YzRodXZpd3VteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnTLgXn0zFXjbqF152/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpucWV4dHd4MGZxeGp3bjBycWw0eDF6dGducW94ZnliajI3dW5maSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="100"/>
 </div>
+
 | Rank | Languages     |
 |-----:|---------------|
 |     1| Python        |
