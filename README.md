@@ -35,9 +35,9 @@
 
 <hr width="100%" color="green" />
 
-About me:
+<h3>About me:</h3>
 
-Moscow State University of Culture and Art by profession management. The Data Analyst course at the Karpov Courses school.
+Moscow State University of Culture and Art in the profession of management in 2014. The Data Analyst course at the Karpov Courses school in 2024.
 
 Email: tyrsa@doctor.com
 telegram: @maxtyrsa
