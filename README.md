@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Max
+### Hi there I'm Max. I am a Data Analyst
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,9 @@ Here are some ideas to get you started:
        <img width="175px" src="https://komarev.com/ghpvc/?username=maxtyrsa&color=green">
    </a>
 </div>
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1| Python        |
+|     2| SQL           |
+|     3| GIT           |
