@@ -1,5 +1,6 @@
 <div align="center">
-### Hi there I'm Max. I am a Data Analyst
+Hi there I'm Max. I am a Data Analyst
+  width="150"
 </div>
 
 <div id="header" align="center">
