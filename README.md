@@ -1,5 +1,5 @@
 <div align="center">
-Hi there I'm Max. I am a Data Analyst
+Hi there I'm Max
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=i+am+a+Data+Analyst)](https://git.io/typing-svg)
