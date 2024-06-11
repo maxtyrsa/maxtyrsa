@@ -1,10 +1,10 @@
 ### Hi there I'm Max. I am a Data Analyst
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="100"/>
 </div>
 
-<iframe src="https://giphy.com/embed/YnTLgXn0zFXjbqF152" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Jibrel-cloud-blockchain-jibrel-YnTLgXn0zFXjbqF152">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/n6mEMqAuYOQ8l8qcEE" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/n6mEMqAuYOQ8l8qcEE">via GIPHY</a></p>
 
 | Rank | Languages     |
 |-----:|---------------|
