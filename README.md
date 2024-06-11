@@ -1,4 +1,6 @@
+<div align="center">
 ### Hi there I'm Max. I am a Data Analyst
+</div>
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpucWV4dHd4MGZxeGp3bjBycWw0eDF6dGducW94ZnliajI3dW5maSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="400"/>
