@@ -35,7 +35,12 @@
 
 <hr width="100%" color="green" />
 
+About me:
+
+Moscow State University of Culture and Art by profession management. The Data Analyst course at the Karpov Courses school.
+
 Email: tyrsa@doctor.com
+telegram: @maxtyrsa
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
