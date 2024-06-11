@@ -2,7 +2,7 @@
 Hi there I'm Max. I am a Data Analyst
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=i+am+a+Data+Analyst)](https://git.io/typing-svg)
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpucWV4dHd4MGZxeGp3bjBycWw0eDF6dGducW94ZnliajI3dW5maSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="400"/>
