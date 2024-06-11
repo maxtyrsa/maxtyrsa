@@ -9,9 +9,8 @@
 
 | Rank | Languages     |
 |-----:|---------------|
-|     1| Python        |
-|     2| SQL           |
-|     3| GIT           |
+|     1| English       |
+|     2| German        |
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
