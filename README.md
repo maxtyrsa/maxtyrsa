@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=i+am+a+Data+Analyst)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHpucWV4dHd4MGZxeGp3bjBycWw0eDF6dGducW94ZnliajI3dW5maSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="400"/>
+  <img src="https://www.pvsm.ru/images/2020/07/14/prodvinutyi-uroven-vizualizacii-dannyh-dlya-Data-Science-na-Python.gif" width="400"/>
 </div>
 
 <hr width="100%" color="green" />
