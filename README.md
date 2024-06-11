@@ -40,7 +40,8 @@
 Moscow State University of Culture and Art in the profession of management in 2014. The Data Analyst course at the Karpov Courses school in 2024.
 
 Email: tyrsa@doctor.com
-telegram: @maxtyrsa
+
+Telegram: @maxtyrsa
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
