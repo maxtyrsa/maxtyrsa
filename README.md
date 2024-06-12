@@ -15,8 +15,6 @@ Moscow State University of Culture and Art in the profession of management in 20
 
 Email: tyrsa@doctor.com
 
-Telegram: https://t.me/maxtyrsa
-
 <hr width="100%" color="green" />
 
 
