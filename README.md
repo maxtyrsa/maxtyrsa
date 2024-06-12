@@ -44,7 +44,7 @@ Telegram: @maxtyrsa
 |     1| English       | A2    |
 |     2| German        | A2    |
 
-![GitHub Release](https://img.shields.io/github/v/release/maxtyrsa/kupiflakon)
+![GitHub Release](https://img.shields.io/github/maxtyrsa/kupiflakon)
 
 
 
