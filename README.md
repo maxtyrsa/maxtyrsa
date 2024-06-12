@@ -44,11 +44,14 @@ Telegram: @maxtyrsa
 |     1| English       | A2    |
 |     2| German        | A2    |
 
+
 <p align="center">
-  <a href="https://github.com/maxtyrsa/kupiflakon/releases/"><img alt="" src="" /></a>
+  <a
+href="https://github.com/maxtyrsa/kupiflakon"><img alt="" src="" /></a>
   <a href=""><img alt="" src="" /></a>
   <a href=""><img alt="" src="" /></a>
 </p>
+
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
