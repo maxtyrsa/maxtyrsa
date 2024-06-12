@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=i+am+a+Data+Analyst)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif?cid=6c09b952nixms4jn55vlnfi4lz8jtx5m062vcxz15j6kqcbr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://i.pinimg.com/originals/e4/c6/62/e4c662b57b412a34c2e45571977121c6.gif" width="400"/>
 </div>
 
 <hr width="100%" color="green" />
