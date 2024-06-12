@@ -44,7 +44,7 @@ Telegram: @maxtyrsa
 |     1| English       | A2    |
 |     2| German        | A2    |
 
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/maxtyrsa/kupiflakon)
+![GitHub Pipenv locked Python version](https://github.com/maxtyrsa/kupiflakon)
 
 
 <!--
