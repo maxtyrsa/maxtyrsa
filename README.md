@@ -9,6 +9,21 @@
 
 <hr width="100%" color="green" />
 
+<h3>About me:</h3>
+
+Moscow State University of Culture and Art in the profession of management in 2014. The Data Analyst course at the Karpov Courses school in 2024.
+
+Email: tyrsa@doctor.com
+
+Telegram: @maxtyrsa
+
+<hr width="100%" color="green" />
+
+
+| Rank | Languages     | Level
+|-----:|---------------|-------|
+|     1| English       | A2    |
+|     2| German        | A2    |
 
 <hr width="100%" color="green" />
 
@@ -28,24 +43,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<hr width="100%" color="green" />
-
-<h3>About me:</h3>
-
-Moscow State University of Culture and Art in the profession of management in 2014. The Data Analyst course at the Karpov Courses school in 2024.
-
-Email: tyrsa@doctor.com
-
-Telegram: @maxtyrsa
-
-| Rank | Languages     | Level
-|-----:|---------------|-------|
-|     1| English       | A2    |
-|     2| German        | A2    |
-
-
-
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
