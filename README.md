@@ -9,10 +9,6 @@
 
 <hr width="100%" color="green" />
 
-| Rank | Languages     |
-|-----:|---------------|
-|     1| English       |
-|     2| German        |
 
 <hr width="100%" color="green" />
 
@@ -42,6 +38,11 @@ Moscow State University of Culture and Art in the profession of management in 20
 Email: tyrsa@doctor.com
 
 Telegram: @maxtyrsa
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1| English       |
+|     2| German        |
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
