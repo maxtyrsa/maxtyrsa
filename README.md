@@ -44,8 +44,6 @@ Telegram: @maxtyrsa
 |     1| English       | A2    |
 |     2| German        | A2    |
 
-![GitHub Pipenv locked Python version](https://github.com/maxtyrsa/kupiflakon)
-
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
