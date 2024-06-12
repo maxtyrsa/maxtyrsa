@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=i+am+a+Data+Analyst)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1103017/screenshots/6683832/anim-04bang.gif" width="100"/>
+  <img src="https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg" width="100"/>
 </div>
 
 <hr width="100%" color="green" />
