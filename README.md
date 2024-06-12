@@ -47,7 +47,7 @@ Telegram: @maxtyrsa
 
 <p align="center">
   <a
-href="https://github.com/maxtyrsa/kupiflakon"><img alt="" src="" /></a>
+href="https://img.shields.io/github/v/release/maxtyrsa/kupiflakon"><img alt="" src="" /></a>
   <a href=""><img alt="" src="" /></a>
   <a href=""><img alt="" src="" /></a>
 </p>
