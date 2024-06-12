@@ -39,10 +39,10 @@ Email: tyrsa@doctor.com
 
 Telegram: @maxtyrsa
 
-| Rank | Languages     |
-|-----:|---------------|
-|     1| English       |
-|     2| German        |
+| Rank | Languages     | Level
+|-----:|---------------|-------|
+|     1| English       | A2    |
+|     2| German        | A2    |
 
 <!--
 **maxtyrsa/maxtyrsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
