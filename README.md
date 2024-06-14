@@ -4,14 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=i+am+a+Data+Analyst)](https://git.io/typing-svg)
 
 <div id="header" align="center">
-  <img src="https://s10.gifyu.com/images/SYZY2.gif" width="400"/>
+  <img src="https://s10.gifyu.com/images/SYolE.gif" width="400"/>
 </div>
 
 <hr width="100%" color="green" />
-
-<div id="header" align="center">
-  <img src="https://s10.gifyu.com/images/SYolE.gif" width="400"/>
-</div>
 
 <h3>About me:</h3>
 
