@@ -9,6 +9,10 @@
 
 <hr width="100%" color="green" />
 
+<div id="header" align="center">
+  <img src="https://gifyu.com/image/SYod7.gif" width="400"/>
+</div>
+
 <h3>About me:</h3>
 
 Incomplete higher education “Moscow State University of Culture and Arts” in 2014, specialty Bachelor of Management, diploma work “Human Resources Management in Crisis Conditions.  
