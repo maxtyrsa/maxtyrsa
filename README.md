@@ -15,6 +15,8 @@ Incomplete higher education “Moscow State University of Culture and Arts” in
 
 Data Analyst course at the Karpov Courses school in 2024.
 
+I currently work in an online store, «Kupi-Flakon»
+
 Email: tyrsa@doctor.com
 
 <hr width="100%" color="green" />
