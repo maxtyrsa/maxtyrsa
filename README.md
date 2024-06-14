@@ -10,7 +10,7 @@
 <hr width="100%" color="green" />
 
 <div id="header" align="center">
-  <img src="https://gifyu.com/image/SYod7.gif" width="400"/>
+  <img src="https://s10.gifyu.com/images/SYolE.gif" width="400"/>
 </div>
 
 <h3>About me:</h3>
