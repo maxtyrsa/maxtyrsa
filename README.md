@@ -11,9 +11,12 @@
 
 <h3>About me:</h3>
 
-Incomplete higher education “Moscow State University of Culture and Arts” in 2014, specialty Bachelor of Management, diploma work “Human Resources Management in Crisis Conditions.  
-
-Data Analyst course at the Karpov Courses school in 2024.
+Python programming using NumPy, Pandas, statsmodels, SciPy and MatPlotLib, Seaborn libraries. 
+Skills in writing SQL queries for the PostgreSQL database, including group by, distinct, join, where, having, union operations and window functions. 
+Experience in working in Linux, writing bash scripts for personal projects. 
+Confident use of Git (push/pull, pull request, merge) and working with remote repositories on GitHub.
+Using BI tools Metabase and Superset for data visualization.
+Skills in working with Excel.
 
 I currently work in an online store, «Kupi-Flakon»
 
