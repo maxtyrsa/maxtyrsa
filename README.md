@@ -38,6 +38,16 @@ Email: tyrsa@doctor.com
 
 <hr width="100%" color="green" />
 
+<h3>Portfolio:</h3>
+
+| Project | Name and link     | Task  |
+|--------:| ------------------|-------|
+| Average Profit Margin   | English           | Рассчитайте наценку на ювелирные изделия по данным на листе "Задание 2". Соблюсти следующие условия:
+1. Период анализа - с 1.04.23 по 10.04.23
+2. В анализе должны участвовать только продажи изделий с общей суммой и себестоимостью больше 0 рублей
+3. В ответе необходимо получить два значения наценки - среднюю наценку на ювелирные изделия из золота и среднюю наценку на ювелирные изделия из серебра. Сгруппировать изделия по металлу нужно на основе поля "Товарная группа". Товарная группа изделий из серебра начинается на "СИ", все остальные изделия - это золото.    |
+
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
