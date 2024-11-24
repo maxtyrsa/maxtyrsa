@@ -11,12 +11,18 @@
 
 <h3>About me:</h3>
 
-Python programming using NumPy, Pandas, statsmodels, SciPy and MatPlotLib, Seaborn libraries. 
-Skills in writing SQL queries for the PostgreSQL database, including group by, distinct, join, where, having, union operations and window functions. 
-Experience in working in Linux, writing bash scripts for personal projects. 
-Confident use of Git (push/pull, pull request, merge) and working with remote repositories on GitHub.
-Using BI tools Metabase and Superset for data visualization.
-Skills in working with Excel.
+An ambitious graduate of karpov.courses with experience in content management and logistics, aspiring to start a career as a junior data analyst. 
+I have skills in Python programming, working with SQL, Git, Linux, BI tools and Excel. 
+My qualities include initiative, quick learning, and a commitment to continuous development.
+
+<hr width="100%" color="green" />
+
+- Python programming using NumPy, Pandas, MatPlotLib, Seaborn libraries.
+- Skills in writing SQL queries for the PostgreSQL database, including group by, distinct, join, where, having, union and window functions.
+- Experience working in Linux, writing bash scripts for personal projects.
+- Strong command of Git (push/pull, pull request, merge) and work with remote repositories on GitHub.
+- The use of Metabase and Superset BI tools for data visualization.
+- Excel skills.
 
 I currently work in an online store, «Kupi-Flakon»
 
