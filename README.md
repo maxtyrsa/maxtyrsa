@@ -61,3 +61,24 @@ Email: tyrsa@doctor.com
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+# You'll need to install PyJWT via pip 'pip install PyJWT' or your project packages file
+
+import jwt
+import time
+
+METABASE_SITE_URL = "http://localhost:3000"
+METABASE_SECRET_KEY = "72df9fe65a6e203ba1a3b80aafcd55dcbdc125040a8df2c3d8442fdabda60b49"
+
+payload = {
+  "resource": {"question": 28},
+  "params": {
+    
+  },
+  "exp": round(time.time()) + (60 * 10) # 10 minute expiration
+}
+token = jwt.encode(payload, METABASE_SECRET_KEY, algorithm="HS256")
+
+iframeUrl = METABASE_SITE_URL + "/embed/question/" + token +
+  "#bordered=true&titled=true"
