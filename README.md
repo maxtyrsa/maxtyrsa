@@ -60,12 +60,3 @@ Email: tyrsa@doctor.com
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-<iframe
-    src="http://localhost:3000/public/question/705795eb-6583-4c8d-a0e6-e2fb2b7c1bf2"
-    frameborder="0"
-    width="800"
-    height="600"
-    allowtransparency
-></iframe>
