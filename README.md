@@ -9,22 +9,20 @@
 
 <hr width="100%" color="green" />
 
-<h3>About me:</h3>
+<h3>Обо мне:</h3>
 
-An ambitious graduate of karpov.courses with experience in content management and logistics, aspiring to start a career as a junior data analyst. 
-I have skills in Python programming, working with SQL, Git, Linux, BI tools and Excel. 
-My qualities include initiative, quick learning, and a commitment to continuous development.
+Амбициозный выпускник karpov.courses с опытом работы в сфере управления контентом и логистики, стремящийся начать карьеру в качестве младшего аналитика данных. Имею навыки программирования на Python, работы с SQL, Git, Linux, BI-инструментами и Excel. Среди моих качеств — инициативность, быстрая обучаемость и стремление к постоянному развитию.
 
 <hr width="100%" color="green" />
 
-- Python programming using NumPy, Pandas, MatPlotLib, Seaborn libraries.
-- Skills in writing SQL queries for the PostgreSQL database, including group by, distinct, join, where, having, union and window functions.
-- Experience working in Linux, writing bash scripts for personal projects.
-- Strong command of Git (push/pull, pull request, merge) and work with remote repositories on GitHub.
-- The use of Metabase and Superset BI tools for data visualization.
-- Excel skills.
+- Программирование на Python с использованием библиотек NumPy, Pandas, MatPlotLib, Seaborn.
+- Навыки написания SQL-запросов к базе данных PostgreSQL, включая функции group by, distinct, join, where, having, union и window.
+- Опыт работы в Linux, написание bash-скриптов для личных проектов.
+- Уверенное владение Git (push/pull, pull request, merge) и работа с удаленными репозиториями на GitHub.
+- Использование инструментов Metabase и Superset BI для визуализации данных.
+- Навыки работы с Excel.
 
-I currently work in an online store, «Kupi-Flakon»
+В настоящее время работаю в интернет-магазине «Купи-Флакон»
 
 Email: tyrsa@doctor.com
 
