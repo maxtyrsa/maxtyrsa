@@ -29,10 +29,10 @@ Email: tyrsa@doctor.com
 <hr width="100%" color="green" />
 
 
-| Rank | Languages     | Level
-|-----:|---------------|-------|
-|     1| English       | A2    |
-|     2| German        | A2    |
+|   №  | Иностранный язык| Уровень
+|-----:|-----------------|-------|
+|     1| English         | A2    |
+|     2| German          | A2    |
 
 <hr width="100%" color="green" />
 
