@@ -25,6 +25,7 @@
 В настоящее время работаю в интернет-магазине «Купи-Флакон»
 
 Email: tyrsa@doctor.com
+Telegram: @DA_Max_work
 
 <hr width="100%" color="green" />
 
