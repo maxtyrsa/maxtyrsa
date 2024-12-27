@@ -7,30 +7,31 @@ city_id = int(input("Идентификатор города: "))
 count = int(input("Количество групп: "))
 
 def search_vk_groups(access_token, query, group_type=None, country_id=None, city_id=None, sort=None, offset=0, count=10):
+
     """
-    Searches for VK groups/communities based on the provided query.
-
-    Args:
-        access_token: User access token.
-        query: The search query text.
-        group_type: (Optional) The type of community to search for ('group', 'page', 'event').
-        country_id: (Optional) Country ID.
-        city_id: (Optional) City ID.
-        sort: (Optional) Sorting type ('0' for default, '6' for sorting by number of members)
-        offset: (Optional) The offset for the results.
-        count: (Optional) The number of results to return (max 1000).
-
-    Returns:
-        A dictionary containing the API response or None in case of an error.
-    """
-
+     Выполняет поиск групп/сообществ ВКОНТАКТЕ на основе предоставленного запроса.
+    
+     Аргументы:
+     access_token: Токен доступа пользователя.
+     query: текст поискового запроса.
+     group_type: (необязательно) Тип сообщества для поиска ("группа", "страница", "мероприятие").
+     country_id: (необязательно) Идентификатор страны.
+     city_id: (необязательно) Идентификатор города.
+     sort: (необязательно) Тип сортировки ('0' по умолчанию, '6' для сортировки по количеству элементов)
+     offset: (необязательно) Смещение для результатов.
+     count: (необязательно) Количество возвращаемых результатов (не более 1000).
+    
+     Возвращается:
+     Словарь, содержащий ответ API, или не содержащий его в случае ошибки.
+     """
+    
     api_url = "https://api.vk.com/method/groups.search"
     params = {
         "access_token": access_token,
         "q": query,
         "offset": offset,
         "count": count,
-        "v": "5.131" # Specify API version
+        "v": "5.131" # Версия API
     }
     
     if group_type:
@@ -44,9 +45,9 @@ def search_vk_groups(access_token, query, group_type=None, country_id=None, city
 
     try:
         response = requests.get(api_url, params=params)
-        response.raise_for_status() # Raise an exception for bad status codes (e.g., 400, 500)
-        data = response.json()
-        return data
+        response.raise_for_status() # Создать исключение для неверных кодов состояния (например, 400, 500)
+        data_vk = response.json()
+        return data_vk
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
         return None
@@ -60,22 +61,23 @@ if __name__ == '__main__':
     ACCESS_TOKEN = "access_token"  
     SEARCH_QUERY = SEARCH_QUERY
 
-    # Example: Searching with some optional parameters
+    # Пример: Поиск с некоторыми необязательными параметрами
     # Москва id: 1
-    search_data = search_vk_groups(ACCESS_TOKEN, SEARCH_QUERY, group_type="group", sort='6', city_id=city_id, count=count)
+    
+    search_data_vk = search_vk_groups(ACCESS_TOKEN, SEARCH_QUERY, group_type="group", sort='6', city_id=city_id, count=count)
 
 
-    if search_data and "response" in search_data:
-      data= json.dumps(search_data, indent=2, ensure_ascii=False)
+    if search_data_vk and "response" in search_data_vk:
+      data_vk = json.dumps(search_data_vk, indent=2, ensure_ascii=False)
     else:
       print("Something went wrong, check error messages")
-json_data = json.dumps(data)
-loaded_data = json.loads(json_data)
-items = pd.read_json(loaded_data)
+json_data_vk = json.dumps(data_vk)
+loaded_data_vk = json.loads(json_data_vk)
+items = pd.read_json(loaded_data_vk)
 count = items['response']['count']
 items = items['response']['items']
 
-# Create a Pandas DataFrame from the items
-df = pd.DataFrame(items)
-df['count'] = count
-print(df[['screen_name', 'name']])
+# Создайте фрейм данных Pandas из этих элементов
+vk = pd.DataFrame(items)
+vk['count'] = count
+print(vk[['screen_name', 'name']])
