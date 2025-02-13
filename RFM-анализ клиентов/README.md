@@ -53,21 +53,6 @@ rfm_analysis_project/
   - Matplotlib
   - Seaborn
 
-## Как использовать
-1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/maxtyrsa/maxtyrsa.git
-   ```
-2. Установите необходимые зависимости:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Запустите Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Откройте файл `notebooks/rfm_analysis.ipynb` и выполните ячейки.
-
 ## Результаты
 - **RFM-сегментация клиентов:** Лояльные, потенциально лояльные, нуждающиеся в внимании, потерянные.
 - **Визуализации:** Графики распределения клиентов по сегментам, scatter plot для анализа RFM-показателей.
